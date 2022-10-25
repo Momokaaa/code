@@ -1,3 +1,5 @@
 #Macos
 .vscode
 *.out
+*.plist
+*.DSYM
